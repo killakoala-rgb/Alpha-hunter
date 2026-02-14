@@ -1,0 +1,4 @@
+streamlit
+polygon-api-client
+openai
+pandas
